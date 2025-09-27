@@ -40,7 +40,81 @@ return {
     },
 
     weapon_pistol = {
-        slot = 1,
+        slot = 4,
+    },
+
+    weapon_pistol_mk2 = {
+        slot = 4,
+    },
+
+    weapon_combatpistol = {
+        slot = 4,
+    },
+
+    weapon_appistol = {
+        slot = 4,
+    },
+
+    weapon_stungun = {
+        slot = 4,
+    },
+    weapon_pistol50 = {
+        slot = 4,
+    },
+
+    weapon_snspistol = {
+        slot = 4,
+    },
+
+    weapon_heavypistol = {
+        slot = 4,
+    },
+
+    weapon_vintagepistol = {
+        slot = 4,
+    },
+
+    weapon_flaregun = {
+        slot = 4,
+    },
+
+    weapon_marksmanpistol = {
+        slot = 4,
+    },
+
+    weapon_revolver = {
+        slot = 4,
+    },
+
+    weapon_revolver_mk2 = {
+        slot = 4,
+    },
+
+    weapon_doubleaction = {
+        slot = 4,
+    },
+
+    weapon_snspistol_mk2 = {
+        slot = 4,
+    },
+    weapon_raypistol = {
+        slot = 4,
+    },
+
+    weapon_ceramicpistol = {
+        slot = 4,
+    },
+
+    weapon_navyrevolver = {
+        slot = 4,
+    },
+
+    weapon_gadgetpistol = {
+        slot = 4,
+    },
+
+    weapon_pistolxm3 = {
+        slot = 4,
     },
 
     -- tier2
